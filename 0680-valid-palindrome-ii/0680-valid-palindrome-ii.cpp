@@ -1,15 +1,11 @@
 class Solution {
 public:
-    bool validPalindrome(string s) {
-        string str = "";
-        for(char i : s){
-            if(isalnum(i)) str += tolower(i);
-        }
 
+    bool validPalindrome(string s){
         int flag=0;
-        int i = 0, j = str.size() - 1;
+        int i = 0, j = s.size() - 1;
         while(i <= j){
-            if(str[i] != str[j]){
+            if(s[i] != s[j]){
                 j--;
                 flag++;
             }
@@ -21,10 +17,10 @@ public:
 
         if(flag>=2){
             flag=0;
-            i = 0, j = str.size() - 1;
+            i = 0, j = s.size() - 1;
             while(i <= j){
                 if(flag==2) return false;
-                if(str[i] != str[j]){
+                if(s[i] != s[j]){
                     i++;
                     flag++;
                 }
