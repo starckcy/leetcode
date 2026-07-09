@@ -1,34 +1,22 @@
 class Solution {
 public:
 
-    bool validPalindrome(string s){
-        int flag=0;
-        int i = 0, j = s.size() - 1;
-        while(i <= j){
-            if(s[i] != s[j]){
-                j--;
-                flag++;
-            }
-            else{
-                i++;
-                j--;
-            }
+    bool isPalindrome(const string &s, int i, int j) {
+        while (i < j){
+            if (s[i++] != s[j--]) return false;
         }
+        return true;
+    }
 
-        if(flag>=2){
-            flag=0;
-            i = 0, j = s.size() - 1;
-            while(i <= j){
-                if(flag==2) return false;
-                if(s[i] != s[j]){
-                    i++;
-                    flag++;
-                }
-                else{
-                    i++;
-                    j--;
-                }
+    bool validPalindrome(string s){
+        int i = 0, j = s.size() - 1;
+        
+        while(i < j){
+            if(s[i] != s[j]){
+                return isPalindrome(s, i+1, j) || isPalindrome(s, i, j-1);
             }
+            i++;
+            j--;
         }
 
         return true;
