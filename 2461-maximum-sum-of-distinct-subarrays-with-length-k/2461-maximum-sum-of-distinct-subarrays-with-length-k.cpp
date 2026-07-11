@@ -5,22 +5,26 @@ public:
         unordered_map<int, int> m;
         long long mxs=0, s=0;
 
-        for(int i=0;i<n;i++){
-            s += nums[i];
+        int i=0;
+        while(i<k){
             m[nums[i]]++;
+            s += nums[i];
+            i++;
+        }
+        if(m.size() == k) mxs = s;
 
-            if(i >= k){
-                s -= nums[i - k];
-                m[nums[i-k]]--;
-                if(m[nums[i-k]] == 0) m.erase(nums[i-k]);
-            }
+        while(i < n){
+            m[nums[i]]++;
+            m[nums[i-k]]--;
+            if(m[nums[i-k]] == 0) m.erase(nums[i-k]);
 
-            if(i >= k-1 && m.size()==k) mxs = max(mxs, s);
+            s += nums[i];
+            s -= nums[i-k];
+            if(m.size() == k) mxs = max(mxs, s);
+            i++;
             
         }
 
         return mxs;
-
-
     }
 };
