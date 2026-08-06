@@ -10,6 +10,6 @@ public:
             b=c;
             c=d;
         }
-        return c;
+        return d;
     }
 };
