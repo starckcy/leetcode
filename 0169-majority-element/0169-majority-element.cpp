@@ -4,7 +4,9 @@ public:
         unordered_map<int, int> mp;
         for(int x : nums){
             mp[x]++;
-            if(mp[x] > nums.size()/2) return x;
+        }
+        for(auto x : mp){
+            if(x.second > nums.size()/2) return x.first;
         }
         return 0;
     }
