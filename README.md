@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/starckcy/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0392-is-subsequence](https://github.com/starckcy/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/starckcy/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 ## Dynamic Programming
@@ -33,4 +34,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/starckcy/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/starckcy/leetcode/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/starckcy/leetcode/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/starckcy/leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
