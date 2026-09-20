@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/starckcy/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0392-is-subsequence](https://github.com/starckcy/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/starckcy/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/starckcy/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/starckcy/leetcode/tree/main/0067-add-binary/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/starckcy/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
