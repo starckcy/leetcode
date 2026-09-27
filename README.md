@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/starckcy/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0392-is-subsequence](https://github.com/starckcy/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/starckcy/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/starckcy/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/starckcy/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -50,4 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/starckcy/leetcode/tree/main/0067-add-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/starckcy/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/starckcy/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/starckcy/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
