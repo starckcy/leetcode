@@ -11,28 +11,34 @@
  */
 class Solution {
 public:
-
-    TreeNode* xparent = NULL;
-    TreeNode* yparent = NULL;
-    int xdepth = -1;
-    int ydepth = -1;
-
-    void dfs(TreeNode* root, TreeNode* parent, int depth, int x, int y){
-        if(root==NULL) return;
-        if(root->val == x){
-            xparent = parent;
-            xdepth = depth;
-        }
-        if(root->val == y){
-            yparent = parent;
-            ydepth = depth;
-        }
-        dfs(root->left, root, depth+1, x, y);
-        dfs(root->right, root, depth+1, x, y);
-    }
-
     bool isCousins(TreeNode* root, int x, int y) {
-        dfs(root, NULL, 0, x, y);
-        return xdepth == ydepth && xparent != yparent;
+        if(root==NULL) return false;
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while(!q.empty()){
+            int size = q.size();
+            bool foundx = false;
+            bool foundy = false;
+
+            while(size--){
+                TreeNode* node = q.front();
+                q.pop();
+
+                if(node->val == x) foundx = true;
+                if(node->val == y) foundy = true;
+                if(node->left && node->right){
+                    if((node->left->val == x && node->right->val == y) ||
+                        (node->left->val == y && node->right->val == x)){
+                            return false;
+                    }
+                }
+
+                if(node->left) q.push(node->left);
+                if(node->right) q.push(node->right);
+            }
+            if(foundx && foundy) return true;
+        }
+        return false;
     }
 };
