@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/starckcy/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/starckcy/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/starckcy/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/starckcy/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/starckcy/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/starckcy/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/starckcy/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/starckcy/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/starckcy/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/starckcy/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/starckcy/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/starckcy/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/starckcy/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/starckcy/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/starckcy/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/starckcy/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/starckcy/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/starckcy/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/starckcy/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/starckcy/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/starckcy/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -152,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/starckcy/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/starckcy/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 <!---LeetCode Topics End-->
