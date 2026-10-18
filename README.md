@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/starckcy/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/starckcy/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/starckcy/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Binary Search
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/starckcy/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/starckcy/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/starckcy/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/starckcy/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/starckcy/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/starckcy/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -111,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/starckcy/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/starckcy/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -135,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/starckcy/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/starckcy/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
