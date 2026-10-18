@@ -12,29 +12,48 @@
 class Solution {
 public:
 
-    vector<vector<int>> ans;
-    vector<vector<int>> nodes;
+    struct pair{
+        TreeNode* node;
+        int row;
+        int col;
 
-    void dfs(TreeNode* root, int row, int col){
-        if(root==NULL) return;
-        nodes.push_back({col, row, root->val});
-        dfs(root->left, row+1, col-1);
-        dfs(root->right, row+1, col+1);
-    }
+        pair(TreeNode* node, int row, int col){
+            this->node = node;
+            this->row = row;
+            this->col = col;
+        }
+    };
+
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        dfs(root, 0, 0);
+        vector<vector<int>> nodes;
+        queue<pair> q;
+        q.push(pair(root, 0, 0));
+
+        while(!q.empty()){
+            pair curr = q.front();
+            q.pop();
+
+            nodes.push_back({curr.col, curr.row, curr.node->val});
+            if(curr.node->left){
+                q.push(pair(curr.node->left, curr.row+1, curr.col-1));
+            }
+            if(curr.node->right){
+                q.push(pair(curr.node->right, curr.row+1, curr.col+1));
+            }
+        }
 
         sort(nodes.begin(), nodes.end());
-        int prevCol = INT_MIN;
+        vector<vector<int>> ans;
 
+        int prevCol = INT_MIN;
         for(auto &node : nodes){
             if(node[0]!=prevCol){
                 ans.push_back({});
                 prevCol = node[0];
             }
-
             ans.back().push_back(node[2]);
         }
+
         return ans;
     }
 };
