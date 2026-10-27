@@ -11,33 +11,23 @@
  */
 class Solution {
 public:
+    vector<unsigned long long> firstidx;
+    unsigned long long mxwidth = 0;
+
+    void dfs(TreeNode* root, int level, unsigned long long idx){
+        if (!root) return;
+        if (level == firstidx.size()) firstidx.push_back(idx);
+
+        unsigned long long normalized = idx - firstidx[level];
+        mxwidth = max(mxwidth, normalized + 1);
+
+        dfs(root->left, level + 1, 2 * normalized);
+        dfs(root->right, level + 1, 2 * normalized + 1);
+    }
+
     int widthOfBinaryTree(TreeNode* root) {
-        if(!root) return 0;
-        queue<pair<TreeNode*, long long>> q;
-        q.push({root, 0});
-        int ans=0;
-
-        while(!q.empty()){
-            int size=q.size();
-            long long mnidx = q.front().second;
-            long long first=0;
-            long long last=0;
-
-            for(int i=0;i<size;i++){
-                auto curr = q.front();
-                q.pop();
-                TreeNode* node = curr.first;
-                long long idx = curr.second - mnidx;
-
-                if(i==0) first=idx;
-                last=idx;
-
-                if(node->left) q.push({node->left, 2 * idx});
-                if(node->right) q.push({node->right, 2 * idx + 1});
-            }
-            ans = max(ans, (int)(last-first+1));
-        }
-
-        return ans;
+        if (!root) return 0;
+        dfs(root, 0, 0);
+        return static_cast<int>(mxwidth);
     }
 };
