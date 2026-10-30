@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/starckcy/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/starckcy/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/starckcy/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/starckcy/leetcode/tree/main/1544-make-the-string-great/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/starckcy/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/starckcy/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/starckcy/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0173-binary-search-tree-iterator](https://github.com/starckcy/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/starckcy/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/starckcy/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/starckcy/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/starckcy/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/starckcy/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/starckcy/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0173-binary-search-tree-iterator](https://github.com/starckcy/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/starckcy/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/starckcy/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/starckcy/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -216,4 +219,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/starckcy/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/starckcy/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/starckcy/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/starckcy/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
