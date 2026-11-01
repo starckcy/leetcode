@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/starckcy/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/starckcy/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0733-flood-fill](https://github.com/starckcy/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1034-coloring-a-border](https://github.com/starckcy/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/starckcy/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/starckcy/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/starckcy/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [2409-count-days-spent-together](https://github.com/starckcy/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/starckcy/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/starckcy/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
