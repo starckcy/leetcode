@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/starckcy/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/starckcy/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0542-01-matrix](https://github.com/starckcy/leetcode/tree/main/0542-01-matrix/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/starckcy/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/starckcy/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/starckcy/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0542-01-matrix](https://github.com/starckcy/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/starckcy/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1034-coloring-a-border](https://github.com/starckcy/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/starckcy/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/starckcy/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/starckcy/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/starckcy/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0542-01-matrix](https://github.com/starckcy/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/starckcy/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/starckcy/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -193,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/starckcy/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/starckcy/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0542-01-matrix](https://github.com/starckcy/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/starckcy/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1034-coloring-a-border](https://github.com/starckcy/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/starckcy/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
