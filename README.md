@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/starckcy/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/starckcy/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1034-coloring-a-border](https://github.com/starckcy/leetcode/tree/main/1034-coloring-a-border/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/starckcy/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/starckcy/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/starckcy/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/starckcy/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/starckcy/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/starckcy/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1034-coloring-a-border](https://github.com/starckcy/leetcode/tree/main/1034-coloring-a-border/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/starckcy/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/starckcy/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/starckcy/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/starckcy/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1034-coloring-a-border](https://github.com/starckcy/leetcode/tree/main/1034-coloring-a-border/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/starckcy/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/starckcy/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
