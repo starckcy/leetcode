@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/starckcy/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/starckcy/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0542-01-matrix](https://github.com/starckcy/leetcode/tree/main/0542-01-matrix/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/starckcy/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/starckcy/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/starckcy/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/starckcy/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/starckcy/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/starckcy/leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/starckcy/leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
