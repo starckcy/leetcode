@@ -1,26 +1,19 @@
 class Solution {
 public:
 
-    int solve(int n, vector<int>& costs, vector<int>& dp){
-        if (n==0) return 0;
-        if(dp[n]!=-1) return dp[n];
+    int climbStairs(int n, vector<int>& costs) {
+        vector<int> dp(n + 1, INT_MAX);
+        dp[0] = 0;
 
-        int ans = INT_MAX;
-
-        for (int jump=1; jump<=3; jump++){
-            if (n >= jump){
-                int curr = solve(n - jump, costs, dp) 
-                                + costs[n - 1] 
-                                + (jump * jump);
-
-                ans = min(ans, curr);
+        for (int i=1; i<=n; i++){
+            for (int jump=1; jump<=3; jump++){
+                if (i >= jump){
+                    int curr = dp[i - jump] + costs[i - 1] + jump * jump;
+                    dp[i] = min(dp[i], curr);
+                }
             }
         }
-        return dp[n] = ans;
-    }
 
-    int climbStairs(int n, vector<int>& costs) {
-        vector<int> dp(n+1, -1);
-        return solve(n, costs, dp);
+        return dp[n];
     }
 };
