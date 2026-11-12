@@ -6,19 +6,16 @@ public:
         int msi=-1, msd=-1;
         for(int x=0; x<nums.size();x++){
             si=1;
+            sd=1;
             for(int i=x;i<nums.size()-1;i++){
                 if(nums[i] >= nums[i+1]) break;
                 if(nums[i] < nums[i+1]) si++;
             }
-            msi = max(msi, si);
-        }
-
-        for(int x=0;x<nums.size();x++){
-            sd=1;
             for(int i=x;i<nums.size()-1;i++){
                 if(nums[i] <= nums[i+1]) break;
                 if(nums[i] > nums[i+1]) sd++;
             }
+            msi = max(msi, si);
             msd = max(msd, sd);
         }
         
