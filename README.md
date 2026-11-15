@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/starckcy/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/starckcy/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0542-01-matrix](https://github.com/starckcy/leetcode/tree/main/0542-01-matrix/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/starckcy/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/starckcy/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-coloring-a-border](https://github.com/starckcy/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/starckcy/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/starckcy/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/starckcy/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/starckcy/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/starckcy/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/starckcy/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/starckcy/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/starckcy/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/starckcy/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/starckcy/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2409-count-days-spent-together](https://github.com/starckcy/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/starckcy/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/starckcy/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -272,5 +275,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/starckcy/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/starckcy/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
