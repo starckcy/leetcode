@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/starckcy/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/starckcy/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/starckcy/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/starckcy/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/starckcy/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/starckcy/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/starckcy/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/starckcy/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/starckcy/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/starckcy/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/starckcy/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/starckcy/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/starckcy/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
