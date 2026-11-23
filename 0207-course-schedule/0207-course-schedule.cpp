@@ -19,12 +19,10 @@ public:
             }
         }
 
-        vector<int> ans;
         int vis = 0;
         while(!q.empty()){
             int node = q.front();
             q.pop();
-            ans.push_back(node);
             vis++;
             for(auto nbr : graph[node]){
                 indegree[nbr]--;
